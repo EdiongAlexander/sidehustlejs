@@ -1,0 +1,43 @@
+body{
+	height: 100vh;
+ background-image: url("IMG-20210711-WA0010.jpg");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+
+.main{
+  text-align: center;
+  border: solid 1px white;
+	box-shadow: 2px 5px 5px black;
+	margin: 60px 20px;
+	padding: 20px 5px;
+}
+
+#h2{
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+#span{
+  font-weight: bold;
+  padding: 20px 50px;
+  font-size: 7em;
+  color: green;
+}
+
+.btn{
+  border: solid 2px black;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  color: white;
+  background-color: black;
+}
+
+
